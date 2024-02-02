@@ -6,11 +6,11 @@
 
 ###### Full Design:
 
-![Image One (Full Design)](./.design/01.png)
+![Image One (Full Design)](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)
 
 ###### Colors and Fonts:
 
-![Image Two (Color and Fonts)](./.design/02.png)
+![Image Two (Color and Fonts)](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)
 
 1.  The font that’s being used in the images is roboto.
 2.  Hero text is the statement that appears at the top of a web page.
