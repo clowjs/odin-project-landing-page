@@ -95,7 +95,7 @@ img {
     color: #E5E7EB;
 }
 
-.hero_left > button {
+.hero_left > a {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 8px 40px;
@@ -192,9 +192,12 @@ img {
     background-color: #FFF;
     display: flex;
     justify-content: center;
+    padding: 100px;
 }
 
 .cta {
+    padding: 10px;
+
     /* Width Stuff */
     width: 80vw;
     max-width: 1050px;
@@ -203,6 +206,37 @@ img {
 .cta_card {
     display: flex;
     justify-content: center;
+    background-color: #3882F6;
+    padding: 50px 120px;
+    color: #F9FAF8;
+    border-radius: 10px;
+    gap: 150px;
+}
+
+.cta_card_left > h1 {
+    font-size: 22px;
+
+}
+
+.cta_card_left > p {
+    font-size: 16px;
+
+}
+
+.cta_card_right {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+}
+
+.cta_card_right > a {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 40px;
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .footer_container {
